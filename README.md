@@ -29,7 +29,7 @@ A → αA'
 A' → β1 | β2
 This helps make the grammar suitable for **predictive parsing**.
 
-## How to Run
+# How to Run
 # Sample Input (Left Recursion)
 Enter Non-Terminal: A
 Enter alpha: a
